@@ -15,6 +15,9 @@ The following are the questions, and their codes:
 
 1. Create a program that finds the area of a triangle using Heron's formula. [Answer](https://github.com/Parv-Joshi/School-Python-Codes/blob/main/Herons%20Formula.ipynb).
 
+1. Create a program that asks the user to input a list if integers, displays it, and sorts only the positive integers in the list (without affecting the negative and 0 numbers).
+[Answer](https://github.com/Parv-Joshi/School-Python-Codes/blob/main/Sort%20positive%20numbers%20of%20a%20list.ipynb).
+
 
 
 
