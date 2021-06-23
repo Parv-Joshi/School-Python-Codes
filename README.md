@@ -20,7 +20,7 @@ The following are the questions, and their codes:
 
 1. Create a program that asks the user to input a list of integers, displays it, checks if it is already in ascending/descending order, and counts the number of odd and even numbers in it. [Answer](https://github.com/Parv-Joshi/School-Python-Codes/blob/main/List%20check%20its%20order%20and%20count%20number%20of%20odd%20and%20even%20numbers.ipynb).
 
-
+1. Create a prorgam that allows different users to vote for a political party, and at the end counts the number of votes each party has got, and displays that name of the winning party. [Answer](https://github.com/Parv-Joshi/School-Python-Codes/blob/main/Election%20Simulation.ipynb).
 
 
 
