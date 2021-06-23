@@ -10,3 +10,5 @@ The following are the questions, and their codes:
 1. Create a program that creates a matrix using user input, displays it, displays its above-major diagonal elements, below-major diagonal elements, above-minor diagonal elements, below-minor diagonal elements, major diagonal elements, and minor diagonal elements. [Answer](https://github.com/Parv-Joshi/School-Python-Codes/blob/main/Matrix%20Input%20Display%20(Above(Below)%20Major(Minor)%20Diagonal)%20Elements.ipynb).
 
 1. Create a program that inputs a string, and displays the frequency and percentage of occurance of an alphanumeric character in that string. [Answer](https://github.com/Parv-Joshi/School-Python-Codes/blob/main/Frequecy%20and%20percentage%20of%20alphanumeric%20characters%20in%20a%20string.ipynb).
+
+1. Create a program that counts the number of alphabets, and alphanumeric characters in a user-input string. [Answer](https://github.com/Parv-Joshi/School-Python-Codes/blob/main/Number%20of%20alphabets%20and%20alphanumeric%20characters%20in%20a%20string.ipynb).
