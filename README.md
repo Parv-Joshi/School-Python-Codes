@@ -18,7 +18,7 @@ The following are the questions, and their codes:
 1. Create a program that asks the user to input a list if integers, displays it, and sorts only the positive integers in the list (without affecting the negative and 0 numbers).
 [Answer](https://github.com/Parv-Joshi/School-Python-Codes/blob/main/Sort%20positive%20numbers%20of%20a%20list.ipynb).
 
-
+1. Create a program that asks the user to input a list of integers, displays it, checks if it is already in ascending/descending order, and counts the number of odd and even numbers in it. [Answer](https://github.com/Parv-Joshi/School-Python-Codes/blob/main/List%20check%20its%20order%20and%20count%20number%20of%20odd%20and%20even%20numbers.ipynb).
 
 
 
